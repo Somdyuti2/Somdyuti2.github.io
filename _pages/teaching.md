@@ -52,7 +52,7 @@ networks, backpropagation and optimization using gradient descent based methods
 ## Autumn 2024 
 
 #### [AI61201: _Visual Computing with AI/ML_](http://kgpmoodlenew.iitkgp.ac.in/moodle/course/view.php?id=953)
-**Course Instructors**: Somdyuti Paul
+**Course Instructors**: Somdyuti Paul  
 **Syllabus**
 * Image formation and representation 
 * The human visual System and modeling visual perception
