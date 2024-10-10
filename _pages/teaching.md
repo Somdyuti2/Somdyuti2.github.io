@@ -62,5 +62,5 @@ networks, backpropagation and optimization using gradient descent based methods
 * Feature design for image analysis and recognition 
 * Deep neural networks for vision tasks
 * Generative models for visual data
-* * Representation and analysis of videos
+* Representation and analysis of videos
 * Perceptual quality and compression models for visual data
