@@ -48,3 +48,19 @@ networks, backpropagation and optimization using gradient descent based methods
 * Dimensionality reduction using PCA and LDA
 * Hidden Markov Models
 * Overview of large language models 
+
+## Autumn 2024 
+
+#### [AI61201: _Visual Computing with AI/ML_](http://kgpmoodlenew.iitkgp.ac.in/moodle/course/view.php?id=953)
+**Course Instructors**: Somdyuti Paul
+**Syllabus**
+* Image formation and representation 
+* The human visual System and modeling visual perception
+* Image transformations in the spatial domain
+* Image analysis and filtering in the frequency domain
+* Multi-resolution representations for images
+* Feature design for image analysis and recognition 
+* Deep neural networks for vision tasks
+* Generative models for visual data
+* * Representation and analysis of videos
+* Perceptual quality and compression models for visual data

@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor, <a href='http://www.ai.iitkgp.ac.in/'>Centre of Excellence in AI</a>, IIT Kharagpur
+subtitle: Assistant Professor, <a href='http://www.ai.iitkgp.ac.in/'>Department of Artifical Intelligence</a>, IIT Kharagpur
 
 profile:
   align: left
