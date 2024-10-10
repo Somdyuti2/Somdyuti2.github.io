@@ -25,7 +25,7 @@ social: true # includes social icons at the bottom of the page
 [//]: # (Link to your social media connections, too. This theme is set up to use [Font Awesome icons]&#40;https://fontawesome.com/&#41; and [Academicons]&#40;https://jpswalsh.github.io/academicons/&#41;, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
 
 
-Hi, I am an Assistant Professor at the Centre of Excellence in Artificial Intelligence (CoEAI), Indian Institute of Technology Kharagpur, Kharagpur, West Bengal, India. My current research focuses on image/video processing and understanding using machine learning. I am also exploring the role of visual perception in  modeling visual data processing tasks. 
+Hi, I am an Assistant Professor at the Department of Artificial Intelligence (CoEAI), Indian Institute of Technology Kharagpur, Kharagpur, West Bengal, India. My current research focuses on image/video processing and understanding using machine learning. I am also exploring the role of visual perception in  modeling visual data processing tasks. 
 
 I was an Applied Scientist at Amazon Prime Video, Seattle, Washington, USA between 2022-2023, where I worked on automating the tasks of video content promotion, curation and moderation using data driven machine learning. I received a Ph.D. in Electrical and Computer Engineering from the University of Texas at Austin, Austin, Texas, USA in 2022. At UT Austin, I was part of the <a href='https://live.ece.utexas.edu/'> Laboratory of Image and Video Engineering</a>, led by <a href='https://www.ece.utexas.edu/people/faculty/alan-bovik'> Prof. Alan Bovik</a>. During my PhD,  I conducted research on developing next generation video coding technologies using deep learning. 
 
