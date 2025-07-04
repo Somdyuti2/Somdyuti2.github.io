@@ -44,7 +44,9 @@ academic writing
 **Fellowship:** Up tp ₹37,000/month (depending on qualification and experience)
 
 ##### **To Apply**
-Interested candidates can apply directly through IIT Kharagpur's online recruitment portal:
-https://erp.iitkgp.ac.in/SricWeb/temporaryJobs.htm
+Interested candidates must apply directly through IIT Kharagpur's [online recruitment portal]
+(https://erp.iitkgp.ac.in/SricWeb/temporaryJobs.htm)
 
-You can also email me your CVs at somdyuti@ai.iitkgp.ac.in 
+You can [email me](mailto:somdyuti@ai.iitkgp.ac.in) with your CV if you have any questions about the application. 
+
+Please note that the last date to apply for this position is  **25-07-2025** and applications must be submitted online to be considered. 
