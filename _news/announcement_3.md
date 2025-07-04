@@ -46,3 +46,5 @@ academic writing
 ##### **To Apply**
 Interested candidates can apply directly through IIT Kharagpur's online recruitment portal:
 https://erp.iitkgp.ac.in/SricWeb/temporaryJobs.htm
+
+You can also email me your CVs at somdyuti@ai.iitkgp.ac.in 
