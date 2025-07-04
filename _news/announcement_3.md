@@ -16,7 +16,7 @@ This research role ideal for someone who is passionate about deep learning, gene
 * Optimizing generative compression models for computational efficiency. 
 
 
-##### **Essential Qualifications**
+##### **Essential Qualification**
 B. Tech in ECE/EE/CS/AI (or related disciplines) with valid GATE/NET score in any one of these
 disciplines with >= 75% / 8.0 CGPA throughout academic career (including X, XII and B. Tech)  
 
@@ -36,3 +36,11 @@ image/video processing problems with libraries such as OpenCV.
 4. Familiarity with Linux based high performance computing systems.
 5. Ability to conduct independent scientific exploration and proficiency in
 academic writing
+
+##### **Fellowship & Duration:**
+
+**Duration:** 2 years (extendable based on performance and funding availability)
+
+**Fellowship:** Up tp ₹37,000/month (depending on qualification and experience)
+
+##### **To Apply**
