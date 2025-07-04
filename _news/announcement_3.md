@@ -5,7 +5,7 @@ date: 2025-07-01 07:59:00-0400
 inline: false
 related_posts: false
 ---
-I am looking to recruit a highly motivated Junior Research Fellow (JRF) to join my research group on an ANRF funded project that explores cutting-edge generative models for video compression. Due to the explosive growth of global video traffic over the internet, traditional compression techniques for video data face increasing challenges to meet performance and scalability demands. In this project, we aim to build a generative framework for video compression. By conditioning generative models on perceptual quality and motion information, we seek to compress and reconstruct video efficiently without compromising on visual quality and fidelity.
+I am looking to recruit a highly motivated candidate to join my research group as a Junior Research Fellow (JRF), working on [ANRF](https://www.anrfonline.in/ANRF/HomePage)-funded project that explores cutting-edge generative models for video compression. Due to the explosive growth of global video traffic over the internet, traditional compression techniques for video data face increasing challenges to meet performance and scalability demands. In this project, we aim to build a generative framework for video compression. By conditioning generative models on perceptual quality and motion information, we seek to compress and reconstruct video efficiently without compromising on visual quality and fidelity.
 
 This research role ideal for someone who is passionate about deep learning, generative models, and computer vision, and who wants to work at the intersection of AI, signal processing and vision science.
 
@@ -44,3 +44,5 @@ academic writing
 **Fellowship:** Up tp ₹37,000/month (depending on qualification and experience)
 
 ##### **To Apply**
+Interested candidates can apply directly through IIT Kharagpur's online recruitment portal:
+https://erp.iitkgp.ac.in/SricWeb/temporaryJobs.htm
