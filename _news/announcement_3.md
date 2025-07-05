@@ -45,7 +45,7 @@ academic writing
 
 ##### **To Apply**
 Interested candidates must apply directly through IIT Kharagpur's [online recruitment portal]
-(https://erp.iitkgp.ac.in/SricWeb/temporaryJobs.htm)
+(https://erp.iitkgp.ac.in/SricWeb/temporaryJobs.htm). The reference number for this position is IIT/SRIC/R/UQG/2025/101.
 
 You can [email me](mailto:somdyuti@ai.iitkgp.ac.in) with your CV if you have any questions about the application. 
 
