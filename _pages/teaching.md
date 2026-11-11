@@ -25,7 +25,7 @@ nav_order: 3
 * Perceptual quality and compression models for visual data
 
 
-## Spring 2025
+## Spring 2026, Spring 2025
   
 ___
 
@@ -43,7 +43,7 @@ networks
 * Sequence modeling using recurrent neural networks, types of recurrent units and their roles in resolving long-term dependency issues  
 * Introduction to attention mechanisms, transformers, and language modeling using BERT and GPT
 * Autoencoders and their applications  
-* Adversarial learning and generative adversarial networks  
+* Adversarial learning and generative adversarial networks
 
 
 ## Spring 2024 (Co-taught part of the course)
